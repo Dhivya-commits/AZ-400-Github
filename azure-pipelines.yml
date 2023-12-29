@@ -8,8 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  vmImage: windows-2022
-  vmImage: windows-2019
+
 
 steps:
 - script: echo Hello, world Hehe!
